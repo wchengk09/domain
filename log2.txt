@@ -9,16 +9,16 @@ Pseudo-terminal will not be allocated because stdin is not a terminal.
 Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Disconnected from 101.43.9.168 port 22
 Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
-Disconnected from 101.43.9.168 port 22
-Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
-Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Disconnected from 101.43.9.168 port 22
 Disconnected from 101.43.9.168 port 22
-Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
+Disconnected from 101.43.9.168 port 22
 Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Disconnected from 101.43.9.168 port 22
+Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Disconnected from 101.43.9.168 port 22
+Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
+Received disconnect from 101.43.9.168 port 22:11: Disconnected by application
 Disconnected from 101.43.9.168 port 22
 Disconnected from 101.43.9.168 port 22
