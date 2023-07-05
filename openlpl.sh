@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/xiaoxinwu/kevin/code/openlpl
+cd /home/kevin/kevin/code/openlpl
 if [ $# != 2 ]; then
     echo "Usage: "$0" <port> <file>"
     echo eg: $0 80 80.txt
