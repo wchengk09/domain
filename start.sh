@@ -1,6 +1,6 @@
 #!/bin/bash
 source /etc/profile
-source .profile
+source ~/.profile
 cd /home/kevin/kevin/code/openlpl
 echo "EXEC..." >> log1.txt
 ./openlpl.sh 80 80.txt &

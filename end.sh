@@ -1,6 +1,6 @@
 #!/bin/bash
 source /etc/profile
-source .profile
+source ~/.profile
 for i in $(ps aux | grep ssh | grep "80:localhost" | grep "sh@sh3.neiwangyun.net" | awk '{print $2}'); do
     kill -9 $i
 done

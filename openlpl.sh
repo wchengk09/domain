@@ -1,6 +1,6 @@
 #!/bin/bash
 source /etc/profile
-source .profile
+source ~/.profile
 cd /home/kevin/kevin/code/openlpl
 if [ $# != 2 ]; then
     echo "Usage: "$0" <port> <file>"
