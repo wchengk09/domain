@@ -11,3 +11,4 @@ echo "EXEC..." >> log1.txt
 ./openlpl.sh 17667 17667.txt &
 ./openlpl.sh 18667 18667.txt &
 ./openlpl.sh 17668 17668.txt &
+./openlpl-ipport.sh 22 22.txt &
