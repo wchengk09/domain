@@ -1,0 +1,27 @@
+
+Welcome to network server by neiwangyun.net  
+current server node : sh3.neiwangyun.net
+----------------------------------------------------------
+Basic Tunnel Information
+  username      : sh
+  type          : anonymous
+  subdomain     : k19gmizst7rvshsh3.neiwangyun.net
+  remote_ip     : 120.245.96.117
+  bandwidth     : 2 Mbps
+  expire_time   : 2 hours
+  unid          : c19zanioje4u6uprrlkd5...
+----------------------------------------------------------
+Datetime Log
+  create time: 2023-07-07 15:00:48
+----------------------------------------------------------
+Local Server
+  local server: 127.0.0.1:8000
+----------------------------------------------------------
+Access to the Tunnel
+  cname_http    : tunnel not support
+  cname_https   : tunnel not support
+  http          : http://k19gmizst7rvshsh3.neiwangyun.net
+  https         : https://k19gmizst7rvshsh3.neiwangyun.net
+  ipport        : k19gmizst7rvshsh3.neiwangyun.net:50935
+----------------------------------------------------------
+Ctrl+C Exit Process
