@@ -2735,3 +2735,13 @@ Pseudo-terminal will not be allocated because stdin is not a terminal.
 Pseudo-terminal will not be allocated because stdin is not a terminal.
 connect_to localhost port 17666: failed.
 connect_to localhost port 17666: failed.
+client_loop: send disconnect: Broken pipe
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
