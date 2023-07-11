@@ -2,7 +2,6 @@
 source /etc/profile
 source ~/.profile
 cd /home/kevin/kevin/code/openlpl
-echo "EXEC..." >> log1.txt
 ./openlpl.sh 80 80.txt &
 ./openlpl.sh 8001 8001.txt &
 ./openlpl.sh 8002 8002.txt &
