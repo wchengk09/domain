@@ -282,3 +282,21 @@ kex_exchange_identification: Connection closed by remote host
 kex_exchange_identification: Connection closed by remote host
 kex_exchange_identification: Connection closed by remote host
 kex_exchange_identification: Connection closed by remote host
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
