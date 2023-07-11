@@ -249,3 +249,20 @@ kex_exchange_identification: Connection closed by remote host
 kex_exchange_identification: Connection closed by remote host
 kex_exchange_identification: Connection closed by remote host
 Connection closed by 101.43.9.168 port 22
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
+kex_exchange_identification: Connection closed by remote host
