@@ -161,3 +161,4 @@ Pseudo-terminal will not be allocated because stdin is not a terminal.
 Pseudo-terminal will not be allocated because stdin is not a terminal.
 Pseudo-terminal will not be allocated because stdin is not a terminal.
 Warning: remote port forwarding failed for listen port 80
+client_loop: send disconnect: Broken pipe
